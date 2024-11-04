@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://awokoahu.github.io/bAk/sitemap_index.txt
+Sitemap: https://awokoahu.github.io/gRB/sitemap_index.txt
+Sitemap: https://awokoahu.github.io/qmj/sitemap_index.txt
+Sitemap: https://awokoahu.github.io/svk/sitemap_index.txt
